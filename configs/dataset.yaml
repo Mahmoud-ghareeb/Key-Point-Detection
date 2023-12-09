@@ -2,7 +2,7 @@ path: M:\Projects\CV\Key_Point_Detection\dataset # dataset root dir
 train: train  # train images (relative to 'path') 4 images
 val: val  # val images (relative to 'path') 4 images
 
-kpt_shape: [24, 3]
+kpt_shape: [24, 3] 
 
 names:
   0: groenendael
